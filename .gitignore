@@ -1,0 +1,10 @@
+# This is a meta-repo for the /Users/jaho/development/ workspace.
+# Only top-level meta files are tracked — each subdirectory is its own git repo.
+
+# Ignore everything by default
+*
+
+# Un-ignore the meta files we do want to track
+!.gitignore
+!CLAUDE.md
+!netbox.quickstart.txt
