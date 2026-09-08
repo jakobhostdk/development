@@ -7,5 +7,6 @@
 # Un-ignore the meta files we do want to track
 !.gitignore
 !CLAUDE.md
+!LICENSE
 !README.md
 !netbox.quickstart.txt
